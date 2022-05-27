@@ -1,5 +1,4 @@
 // Testing ChangeSets Again
-// Add a Comment
 Ext.define("feature-schedule", {
     extend: 'Rally.app.App',
     componentCls: 'app',
